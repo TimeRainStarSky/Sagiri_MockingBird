@@ -17,7 +17,7 @@
 
 1. 准备：[Sagiri Bot](../../../../SAGIRI-kawaii/sagiri-bot)
 
-2. 下载模型：`mockingbird.txz` `azusa.txz` `tianyi.txz`(可选)
+2. 下载模型：`mockingbird.txz` `azusa.txz` `tianyi.txz(可选)`
 
 - [下载地址](../../releases/latest)
 
